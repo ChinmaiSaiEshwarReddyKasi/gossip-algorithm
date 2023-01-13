@@ -1,4 +1,4 @@
-Dosp Project 2 - Report
+# Dosp Project 2
 
 Chinmai Sai Eshwar Reddy Kasi
 Venkateswarlu Tanneru
