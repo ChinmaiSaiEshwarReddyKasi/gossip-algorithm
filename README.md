@@ -1,4 +1,4 @@
-# Dosp Project 2
+# DSOP Project 2 - Gossip Algorithm
 
 **Introduction:**
 
