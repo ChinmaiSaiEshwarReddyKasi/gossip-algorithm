@@ -12,5 +12,3 @@
 -erl<br/>
 -c(project2).<br/>
 -project2:main(N, Algorithm, Topology) // N is number of zero's, Algorithm is either "gossip" or "pushsum" and Topology is either "line", "full", "2d", "imp3d".
-
-# gossip-algorithm
