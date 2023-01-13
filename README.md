@@ -1,10 +1,5 @@
 # Dosp Project 2
 
-Chinmai Sai Eshwar Reddy Kasi
-Venkateswarlu Tanneru
-
-Monday 10th October, 2022
-
 **Introduction:**
 
 In this report, we describe the performance of the Asynchronous Gossip and Push- Sum algorithms while modeling various topologies. In addition, we calculate the convergence time for various number of actors and give our findings for each ar- chitecture. For Gossip, the convergence happens when all nodes in the network have heard the rumor, and for Push-sum, when the node ratio changes by less than 10<sup>-10</sup>.
